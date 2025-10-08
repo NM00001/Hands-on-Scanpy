@@ -1,5 +1,8 @@
 # Hands-on-Scanpy
 
+![Scanpy_Logo_RGB](https://github.com/user-attachments/assets/f6c208be-a3a5-436e-be31-4a3ffbe0f51b)
+
+
 **Practice single-cell RNA-seq analysis with Scanpy — step-by-step, notebook by notebook.**
 
 This repository is a hands-on playground to learn [Scanpy](https://scanpy.readthedocs.io/) and build reproducible single-cell analysis pipelines. Each notebook is a focused exercise covering the complete workflow: download datasets, preprocess, find highly variable genes, reduce dimensionality, cluster, identify marker genes, annotate cell types, and train ML/AI models.
