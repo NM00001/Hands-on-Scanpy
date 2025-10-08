@@ -90,5 +90,5 @@ This repository was inspired by and built upon excellent resources from the sing
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Hands-on-Scanpy.git](https://github.com/yourusername/Hands-on-Scanpy.git)
+   git clone [https://github.com/NM00001/Hands-on-Scanpy.git](https://github.com/NM0001/Hands-on-Scanpy.git)
    cd Hands-on-Scanpy
