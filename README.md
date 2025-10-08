@@ -37,13 +37,13 @@ Each notebook is self-contained and focuses on a specific analysis step:
 | Notebook | Topic | Key Concepts |
 |----------|-------|--------------|
 | **01** | [Data Loading & QC](notebooks/01_data_loading_and_qc.ipynb) | Loading data, quality metrics, filtering cells/genes |
-| **02** | [Preprocessing & Normalization](notebooks/02_preprocessing_normalization.ipynb) | Normalization, log transformation, scaling |
-| **03** | [Highly Variable Genes](notebooks/03_highly_variable_genes.ipynb) | Feature selection, variance analysis |
-| **04** | [Dimensionality Reduction](notebooks/04_dimensionality_reduction.ipynb) | PCA, t-SNE, UMAP |
-| **05** | [Clustering](notebooks/05_clustering.ipynb) | Leiden/Louvain clustering, resolution tuning |
-| **06** | [Marker Gene Identification](notebooks/06_marker_genes.ipynb) | Differential expression, statistical testing |
-| **07** | [Cell Type Annotation](notebooks/07_cell_type_annotation.ipynb) | Manual & automated annotation, reference mapping |
-| **08** | [ML/AI Model Training](notebooks/08_ml_model_training.ipynb) | Classification, prediction, deep learning |
+| **02** | [Preprocessing & Normalization](notebooks/02_preprocessing_normalization.ipynb) | Normalization, log transformation, HVG selection, **PCA** |
+| **03** | [Dimensionality Reduction](notebooks/03_dimensionality_reduction.ipynb) | **UMAP visualization**, t-SNE, neighborhood graph |
+| **04** | [Clustering](notebooks/04_clustering.ipynb) | Leiden clustering, resolution tuning, cluster evaluation |
+| **05** | [Marker Gene Identification](notebooks/05_marker_genes.ipynb) | Differential expression, marker visualization |
+| **06** | [Cell Type Annotation](notebooks/06_cell_type_annotation.ipynb) | Manual annotation, artifact removal, validation |
+| **07** | [Biological Insights](notebooks/07_biological_insights.ipynb) | Pathway analysis, gene set enrichment |
+| **08** | [Advanced Analysis](notebooks/08_advanced_analysis.ipynb) | Trajectory inference, specialized analyses |
 
 # Data Directory
 
