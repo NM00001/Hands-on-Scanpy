@@ -1,0 +1,18 @@
+# Data files (trop gros pour Git)
+data/*
+!data/README.md
+
+# Results
+results/*
+!results/README.md
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mac
+.DS_Store

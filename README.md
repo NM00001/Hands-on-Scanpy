@@ -28,6 +28,27 @@ Each notebook is self-contained and focuses on a specific analysis step:
 | **07** | [Cell Type Annotation](notebooks/07_cell_type_annotation.ipynb) | Manual & automated annotation, reference mapping |
 | **08** | [ML/AI Model Training](notebooks/08_ml_model_training.ipynb) | Classification, prediction, deep learning |
 
+# Data Directory
+
+This directory will contain downloaded single-cell RNA-seq datasets.
+
+Datasets are automatically downloaded when you run the notebooks for the first time.
+
+## Datasets used:
+- PBMC 3k from 10X Genomics
+- PBMC 68k from 10X Genomics
+- Other public datasets as needed
+
+# Results Directory
+
+This directory will contain:
+- Generated plots and figures
+- Analysis outputs
+- Saved models
+- Intermediate results
+
+Files are automatically saved here when running the notebooks.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
