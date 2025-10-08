@@ -61,5 +61,5 @@ Files are automatically saved here when running the notebooks.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Hands-on-Scanpy.git](https://github.com/yourusername/Hands-on-Scanpy.git)
+   git clone [https://github.com/NM00001/Hands-on-Scanpy.git](https://github.com/NM0001/Hands-on-Scanpy.git)
    cd Hands-on-Scanpy
