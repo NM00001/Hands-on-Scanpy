@@ -4,6 +4,23 @@
 
 This repository is a hands-on playground to learn [Scanpy](https://scanpy.readthedocs.io/) and build reproducible single-cell analysis pipelines. Each notebook is a focused exercise covering the complete workflow: download datasets, preprocess, find highly variable genes, reduce dimensionality, cluster, identify marker genes, annotate cell types, and train ML/AI models.
 
+## 👋 About This Project
+
+Hi! I'm **NM0001**, a pharmacist by training with a deep passion for research and science. My current focus is on **AI/ML applications in life sciences**, and this repository is part of my **#BuildInPublic** journey.
+
+### Why This Repository?
+
+I've always dreamed of becoming a professor one day, and what better way to start than by teaching now? This repository is designed as if I'm my own Professor — breaking down complex concepts, explaining the "why" behind each step, and making single-cell analysis accessible.
+
+**My philosophy**: 
+- **Pedagogy first** - *"Ce que l'on conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément."* — Nicolas Boileau
+- **Science meets code** - *"L'intelligence artificielle et la biologie computationnelle ouvrent une nouvelle ère : celle où l'on peut enfin modéliser la complexité du vivant, non plus comme une métaphore, mais comme une réalité calculable."* — Jean-Pierre Changeux
+- **Student one day, professor another** - *"La vie est un apprentissage permanent ; plus on croit savoir, moins on sait, tant les choses changent, et avec elles les mentalités."* — Yasmina Khadra
+
+Whether you're a student, researcher, or fellow learner, I hope these notebooks help you master single-cell RNA-seq analysis!
+
+---
+
 ## 🎯 Learning Objectives
 
 - Master the Scanpy ecosystem for single-cell RNA-seq analysis
@@ -49,13 +66,25 @@ This directory will contain:
 
 Files are automatically saved here when running the notebooks.
 
+## Acknowledgments & Inspiration
+
+This repository was inspired by and built upon excellent resources from the single-cell genomics community:
+
+### Primary Sources
+
+- **[Scanpy Official Tutorials](https://scanpy-tutorials.readthedocs.io/)** - The foundational tutorials from the Scanpy team
+- **[Single-cell Best Practices](https://www.sc-best-practices.org/)** - Comprehensive guide with theory and best practices
+- **[Scanpy Documentation](https://scanpy.readthedocs.io/)** - Official documentation and API reference
+
+### Additional Resources
+
+- **[Theis Lab](https://github.com/theislab)** - Creators of Scanpy and related tools
+- **[10X Genomics Datasets](https://www.10xgenomics.com/resources/datasets)** - Public datasets used in tutorials
+- The broader single-cell genomics community for tools and methodologies
+
+**Standing on the shoulders of giants** - This work wouldn't be possible without the incredible open-source contributions of the Scanpy team and the single-cell community. 🙏
+
 ## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.8+
-- Jupyter Notebook or JupyterLab
-- 8GB+ RAM recommended
 
 ### Installation
 
