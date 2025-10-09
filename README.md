@@ -53,8 +53,6 @@ Datasets are automatically downloaded when you run the notebooks for the first t
 
 ## Datasets used:
 - PBMC 3k from 10X Genomics
-- PBMC 68k from 10X Genomics
-- Other public datasets as needed
 
 # Results Directory
 
