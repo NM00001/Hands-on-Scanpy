@@ -43,7 +43,7 @@ Each notebook is self-contained and focuses on a specific analysis step:
 | **05** | [Marker Gene Identification](notebooks/05_marker_genes.ipynb) | Differential expression, marker visualization |
 | **06** | [Cell Type Annotation](notebooks/06_cell_type_annotation.ipynb) | Manual annotation, artifact removal, validation |
 | **07** | [Biological Insights](notebooks/07_biological_insights.ipynb) | Pathway analysis, gene set enrichment |
-| **08** | [Advanced Analysis](notebooks/08_advanced_analysis.ipynb) | Trajectory inference, specialized analyses |
+| **08** | [Advanced Analysis](notebooks/08_advanced_analysis.ipynb) | Trajectory inference, specialized analyses (conceptual for a future work) |
 
 # Data Directory
 
